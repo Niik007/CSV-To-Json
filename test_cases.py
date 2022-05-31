@@ -1,5 +1,6 @@
 import pytest
 from pathlib import Path
+import pandas as pd
 
 data_csv = 'data.csv'
 json_file = 'new_output.json'
@@ -14,4 +15,11 @@ def test_datafile():
 
 def test_jsonfile():
     if json_path.is_file():
+        assert True
+
+
+def test_columns_size():
+    df = pd.read_csv(file)
+    columns = df.shape[1]
+    if columns == 10:
         assert True
