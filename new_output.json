@@ -1,0 +1,272 @@
+{
+  "Base URL": "https://groceries.dmart.com/browse",
+  "children": [
+    {
+      "Level 1 - Name": "THE BEST",
+      "Level 1 - ID": 178974.0,
+      "Level 1 - URL": "https://groceries.dmart.com/browse/178974",
+      "children": [
+        {
+          "Level 2 - Name": "BAKERY & CAKES",
+          "Level 2 - ID": 178971.0,
+          "Level 2 URL": "https://groceries.dmart.com/browse/178974/178971",
+          "children": [
+            {
+              "Level 3 - Name": "BREAD & BREAD ROLLS",
+              "Level 3 - ID": 179023.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178971/179023"
+            },
+            {
+              "Level 3 - Name": "CAKES, PIES & TARTS",
+              "Level 3 - ID": 179024.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178971/179024"
+            },
+            {
+              "Level 3 - Name": "CROISSANTS & BREAKFAST BAKERY",
+              "Level 3 - ID": 179025.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178971/179025"
+            },
+            {
+              "Level 3 - Name": "DESSERTS & PUDDINGS",
+              "Level 3 - ID": 179026.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178971/179026"
+            },
+            {
+              "Level 3 - Name": "FRUITED BREAD, SCONES & HOT CROSS BUNS",
+              "Level 3 - ID": 179027.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178971/179027"
+            }
+          ]
+        },
+        {
+          "Level 2 - Name": "DRINKS",
+          "Level 2 - ID": 178973.0,
+          "Level 2 URL": "https://groceries.dmart.com/browse/178974/178973",
+          "children": [
+            {
+              "Level 3 - Name": "SOFT DRINKS",
+              "Level 3 - ID": 179037.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178973/179037"
+            },
+            {
+              "Level 3 - Name": "WINE & SPARKLING",
+              "Level 3 - ID": 179038.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178973/179038"
+            },
+            {
+              "Level 3 - Name": "BEER",
+              "Level 3 - ID": 179039.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178973/179039"
+            }
+          ]
+        },
+        {
+          "Level 2 - Name": "FOOD CUPBOARD",
+          "Level 2 - ID": 178970.0,
+          "Level 2 URL": "https://groceries.dmart.com/browse/178974/178970",
+          "children": [
+            {
+              "Level 3 - Name": "ANTIPASTI",
+              "Level 3 - ID": 178990.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/178990"
+            },
+            {
+              "Level 3 - Name": "BISCUITS & CRACKERS",
+              "Level 3 - ID": 178991.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/178991"
+            },
+            {
+              "Level 3 - Name": "BREAKFAST CEREALS",
+              "Level 3 - ID": 178992.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/178992"
+            },
+            {
+              "Level 3 - Name": "CHOCOLATE & SWEETS",
+              "Level 3 - ID": 178993.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/178993"
+            },
+            {
+              "Level 3 - Name": "CONDIMENTS & DRESSINGS",
+              "Level 3 - ID": 178994.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/178994"
+            },
+            {
+              "Level 3 - Name": "CRISPS & SAVOURY SNACKS",
+              "Level 3 - ID": 178995.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/178995"
+            },
+            {
+              "Level 3 - Name": "HOMEBAKING",
+              "Level 3 - ID": 179016.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179016"
+            },
+            {
+              "Level 3 - Name": "JAMS, SPREADS & CHUTNEYS",
+              "Level 3 - ID": 179017.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179017"
+            },
+            {
+              "Level 3 - Name": "PASTA",
+              "Level 3 - ID": 179018.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179018"
+            },
+            {
+              "Level 3 - Name": "PUDDINGS & DESSERTS",
+              "Level 3 - ID": 179019.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179019"
+            },
+            {
+              "Level 3 - Name": "SAUCES, STOCKS & GRAVY",
+              "Level 3 - ID": 179020.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179020"
+            },
+            {
+              "Level 3 - Name": "TEA & COFFEE",
+              "Level 3 - ID": 179021.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179021"
+            },
+            {
+              "Level 3 - Name": "TINS & CANS",
+              "Level 3 - ID": 179022.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178970/179022"
+            }
+          ]
+        },
+        {
+          "Level 2 - Name": "FRESH",
+          "Level 2 - ID": 178969.0,
+          "Level 2 URL": "https://groceries.dmart.com/browse/178974/178969",
+          "children": [
+            {
+              "Level 3 - Name": "CHEESE",
+              "Level 3 - ID": 178975.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178975"
+            },
+            {
+              "Level 3 - Name": "COOKED MEAT & ANTIPASTI",
+              "Level 3 - ID": 178976.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178976"
+            },
+            {
+              "Level 3 - Name": "DAIRY & EGGS",
+              "Level 3 - ID": 178977.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178977"
+            },
+            {
+              "Level 3 - Name": "DESSERTS",
+              "Level 3 - ID": 178978.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178978"
+            },
+            {
+              "Level 3 - Name": "DRINKS",
+              "Level 3 - ID": 178979.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178979"
+            },
+            {
+              "Level 3 - Name": "FISH & SEAFOOD",
+              "Level 3 - ID": 178980.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178980"
+            },
+            {
+              "Level 3 - Name": "FRUIT & VEGETABLES",
+              "Level 3 - ID": 178981.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178981"
+            },
+            {
+              "Level 3 - Name": "MEAT & POULTRY",
+              "Level 3 - ID": 178982.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178982"
+            },
+            {
+              "Level 3 - Name": "NUTS & SNACKS",
+              "Level 3 - ID": 178983.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178983"
+            },
+            {
+              "Level 3 - Name": "PIES & QUICHES ",
+              "Level 3 - ID": 178984.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178984"
+            },
+            {
+              "Level 3 - Name": "PIZZA, PASTA & GARLIC BREAD",
+              "Level 3 - ID": 178985.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178985"
+            },
+            {
+              "Level 3 - Name": "READY MEALS",
+              "Level 3 - ID": 178986.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178986"
+            },
+            {
+              "Level 3 - Name": "SAVOURY SNACKS & CHILLED",
+              "Level 3 - ID": 178987.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178987"
+            },
+            {
+              "Level 3 - Name": "SOUPS & SAUCES",
+              "Level 3 - ID": 178988.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178988"
+            },
+            {
+              "Level 3 - Name": "VEGETARIAN",
+              "Level 3 - ID": 178989.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178969/178989"
+            }
+          ]
+        },
+        {
+          "Level 2 - Name": "FROZEN",
+          "Level 2 - ID": 178972.0,
+          "Level 2 URL": "https://groceries.dmart.com/browse/178974/178972",
+          "children": [
+            {
+              "Level 3 - Name": "CAKES, PIES & TARTS",
+              "Level 3 - ID": 179028.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179028"
+            },
+            {
+              "Level 3 - Name": "CHIPS, POTATOES & VEGETABLES",
+              "Level 3 - ID": 179029.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179029"
+            },
+            {
+              "Level 3 - Name": "DESSERTS",
+              "Level 3 - ID": 179030.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179030"
+            },
+            {
+              "Level 3 - Name": "FISH & SEAFOOD",
+              "Level 3 - ID": 179031.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179031"
+            },
+            {
+              "Level 3 - Name": "ICE CREAM & LOLLIES",
+              "Level 3 - ID": 179032.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179032"
+            },
+            {
+              "Level 3 - Name": "MEAT & POULTRY",
+              "Level 3 - ID": 179033.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179033"
+            },
+            {
+              "Level 3 - Name": "PIES & PASTRIES",
+              "Level 3 - ID": 179034.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179034"
+            },
+            {
+              "Level 3 - Name": "PIZZA & GARLIC BREAD",
+              "Level 3 - ID": 179035.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179035"
+            },
+            {
+              "Level 3 - Name": "READY MEALS",
+              "Level 3 - ID": 179036.0,
+              "Level 3 URL": "https://groceries.dmart.com/browse/178974/178972/179036"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
