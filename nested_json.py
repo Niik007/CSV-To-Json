@@ -1,10 +1,6 @@
 import pandas as pd
 import json
 
-pd.options.display.width = 1500
-pd.options.display.max_columns = 500
-pd.options.display.max_rows = 50000
-
 csv_file = pd.read_csv('data.csv')
 csv_file = csv_file.dropna()
 
@@ -37,4 +33,3 @@ for i in parsed:
     with open('new_output.json', 'w') as cf:
         cf.write(new_df)
 
-# print(new_df)
